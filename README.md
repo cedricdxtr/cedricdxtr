@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cedricdxtr
-- 🌱 I’m currently graduate at Polytechnic University of the Philippines and National University Manila 
+- 🌱 I graduated at Polytechnic University of the Philippines and National University Manila 
 - 📫 You can contact me at cedricdextertagle@gmail.com 
 
 
