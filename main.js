@@ -15,3 +15,5 @@ navLinks.addEventListener('click', (event) => {
     menuToggle.classList.remove('open');
   }
 });
+
+
